@@ -1,6 +1,6 @@
 # 3DPrimitivesExample
-##C++
-##Description
+## C++
+## Description
 This is my assignment2
-##Screenshots
+## Screenshots
 ![](myGif.gif)
